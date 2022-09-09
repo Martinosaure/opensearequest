@@ -1,5 +1,4 @@
 import requests
-from requests import Session
 import json
 
 
